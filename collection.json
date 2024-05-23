@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "DogFood Doggos 🐶",
+    "description": "We love dogs !!!",
+    "image": "https://yundifu.github.io/sample-project-metadata/collection.png",
+    "external_link": ""
 }
