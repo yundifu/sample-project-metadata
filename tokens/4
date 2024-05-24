@@ -1,0 +1,17 @@
+{
+    "id": 4,
+    "image": "https://yundifu.github.io/sample-project-metadata/tokens/dog4.png",
+    "token_id": "4",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Goldieeeee",
+    "description": "This is a very fluffy fluff",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Personality",
+        "value": "Loyal"
+      }
+    ]
+  }
