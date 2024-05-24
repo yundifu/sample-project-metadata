@@ -1,0 +1,17 @@
+{
+    "id": 4,
+    "image": "https://yundifu.github.io/sample-project-metadata/tokens/dog8.png",
+    "token_id": "4",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Border Collie",
+    "description": "Smart doggie",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Personality",
+        "value": "Smart"
+      }
+    ]
+  }
